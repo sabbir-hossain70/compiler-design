@@ -1,0 +1,51 @@
+Integer Func_Max (_ Integer $a, Integer $b  _)
+{_ 
+
+_}
+
+Integer start  (_  _)
+{_
+	Integer  $int1 ;;
+	$int1 <- 44;;
+	Integer $int2;;
+	Integer $int3;;
+	DInt $double1, $double2;;
+
+	$int1 <- 10 ;;
+	$int2 <- 20 ;;
+	$int3 <- $int1 Plus $int2;;
+	Integer $int4 <- $int1 Multiply $int2;;
+	$double1 <- 18.70;;
+	$double2 <- $double1 Minus 70;;
+
+	Integer $i1<- 30;;
+	Integer $i2 <- 39;;
+
+	If (_ $i1 less  $i2 _)
+	{_  
+		Print_str (_ "less"_) ;;
+	_}
+	Elif (_ $i1 greater $i2 _)
+	{_  
+		Print_str (_ "greater"_) ;;
+	_}
+	Else
+	{_  
+		Print_str (_ "equal"_) ;;
+	_}
+	
+ Print_str (_ "For loop"_) ;;
+
+	loop (_ $int1 To $int2 IncrementBy 2 _)
+	{_
+		Print_str (_ "sabbir"_) ;;
+	_}
+	$int1<- 18;;
+	$int2<- 70;;
+
+  Print_str (_ "Enter any value: " _);;
+	Scan (_ $int1 _);;
+
+	
+	
+_}

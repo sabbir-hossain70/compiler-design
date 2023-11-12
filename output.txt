@@ -1,0 +1,67 @@
+
+working
+int defined
+int defined
+int defined
+Function Declared
+function called
+int defined
+$int1
+inside assign $int1
+int defined
+$int2
+int defined
+$int3
+double defined
+$double1
+$double2
+inside assign $int1
+inside assign $int2
+assign
+not declared
+assign
+not declared
+inside assign $int3
+int defined
+assign
+not declared
+assign
+not declared
+$int4 200
+inside assign $double1
+assign
+not declared
+inside assign $double2
+int defined
+$i1 30
+int defined
+$i2 39
+assign
+not declared
+assign
+not declared
+
+If executed
+assign
+not declared
+assign
+not declared
+inside ifelse
+lessFor loopassign
+not declared
+assign
+not declared
+sabbir
+sabbir
+sabbir
+sabbir
+sabbir
+sabbir
+Loop executes 8 times
+inside assign $int1
+inside assign $int2
+Enter any value: scanning something
+40
+
+Compilation Successful..
+start
